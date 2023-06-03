@@ -1,3 +1,15 @@
 body{
+    padding-top: 80px;
     background-color: #414141;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style: none;
+    font-size: 32px;
+    color: white;
+    margin-top:20px;
 }
