@@ -1,6 +1,10 @@
 body{
     padding-top: 80px;
     background-color: #414141;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 ul{
     display: flex;

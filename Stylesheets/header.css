@@ -10,24 +10,9 @@
     height: 80px;
     border-bottom: black solid 2px;
 }
-.header-right{
-    display: flex;
-    flex: 1;
-    gap: 40px;
-    justify-content: right;
-    align-items: center;
-    margin-right: 50px;
-}
 .header-left{
     display: flex;
     align-items: center;
-}
-.header-left > p{
-    text-decoration: none;
-    font-family: 'Outfit', sans-serif;
-    font-size: 38px;
-    color: #3eaf4d;
-    margin: 0 0 0 50px;
 }
 .header-right > p{
     font-family: 'Outfit', sans-serif;
