@@ -3,55 +3,20 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 60px;
+    margin-top: 2vh;
+}
+.quote{
+    color: white;
+    text-align: center;
+    width: 60vw;
+    font-size: 2.4vh;
 }
 .author{
     margin-top: 12px;
-    font-size: 42px;
+    font-size: 2em;
     font-style: italic;
     display: block;
     color: white;
-}
-.about{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width:68%;
-    margin: 92px auto;
-}
-.about-content{
-    margin-left: 60px;
-}
-.about-header{
-    font-size: 42px;
-    color: #3eaf4d;
-    text-align: center;
-}
-.capital{
-    width: 68%;
-    margin: 120px auto;
-}
-.programming-languages-header{
-    font-size: 42px;
-    color: #3eaf4d;
-    text-align: center;
-}
-.programming-languages > ul{
-    flex-direction: column;
-}
-.projects-header{
-    text-align: center;
-    color: #3eaf4d;
-    font-size: 52px;
-}
-.project-caption{
-    text-align: center;
-    color: white;
-    font-size: 32px;
-}
-.project-caption > a{
-    text-decoration: none;
-    color: #3eaf4d;
 }
 .links{
     display: flex;
@@ -62,13 +27,20 @@
 .links-header{
     text-align: center;
     color: #3eaf4d;
-    font-size: 52px;
+    font-size: 2.5vh;
     margin-bottom: 0;
 }
-.links-header>ul{
+.links>ul{
+    margin: 0 0 4vh 0;
+    padding: 0;
     flex-direction: row;
 }
 .icon{
-    width: 92px;
+    width: 6vw;
     border: none;
+}
+@media screen and (max-width: 720px) {
+    .icon{
+        width: 12vw;
+    }
 }
