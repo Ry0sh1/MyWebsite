@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Testing">
-      <change afterPath="$PROJECT_DIR$/Stylesheets/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stylesheets/projects.css" afterDir="false" />
+    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Made it look alright in Handy and Desktop Version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/body.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stylesheets/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/general.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/media1200px.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/media600px.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/mediaMax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +28,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyWebsite",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyWebsite&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Stylesheets" />
@@ -67,7 +59,9 @@
       <workItem from="1685884726562" duration="1794000" />
       <workItem from="1686022009769" duration="72000" />
       <workItem from="1686022095840" duration="135000" />
-      <workItem from="1686241589792" duration="5846000" />
+      <workItem from="1686241589792" duration="6582000" />
+      <workItem from="1686263169156" duration="99000" />
+      <workItem from="1686315216906" duration="1579000" />
     </task>
     <task id="LOCAL-00001" summary="index.html, header.css and general.css">
       <created>1685804391724</created>
@@ -97,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686022105674</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Made it look alright in Handy and Desktop Version">
+      <created>1686249069164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686249069164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +108,7 @@
     <MESSAGE value="index.html, header.css and general.css" />
     <MESSAGE value="The most of the website" />
     <MESSAGE value="Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
+    <MESSAGE value="Made it look alright in Handy and Desktop Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made it look alright in Handy and Desktop Version" />
   </component>
 </project>
