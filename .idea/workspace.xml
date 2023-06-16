@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Made it look alright in Handy and Desktop Version">
+    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Playing around with the Scrollbar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/general.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <workItem from="1686022095840" duration="135000" />
       <workItem from="1686241589792" duration="6582000" />
       <workItem from="1686263169156" duration="99000" />
-      <workItem from="1686315216906" duration="1579000" />
+      <workItem from="1686315216906" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="index.html, header.css and general.css">
       <created>1685804391724</created>
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686249069164</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Playing around with the Scrollbar">
+      <created>1686318424926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686318424926</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +115,7 @@
     <MESSAGE value="The most of the website" />
     <MESSAGE value="Testing" />
     <MESSAGE value="Made it look alright in Handy and Desktop Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made it look alright in Handy and Desktop Version" />
+    <MESSAGE value="Playing around with the Scrollbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Playing around with the Scrollbar" />
   </component>
 </project>
