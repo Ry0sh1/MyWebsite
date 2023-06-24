@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Scroll behaviour">
+    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Changed all Colors">
+      <change afterPath="$PROJECT_DIR$/Script/project.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/body.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/general.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/general.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stylesheets/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stylesheets/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -48,6 +48,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Script" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Stylesheets" />
     </key>
   </component>
@@ -67,7 +68,7 @@
       <workItem from="1686263169156" duration="99000" />
       <workItem from="1686315216906" duration="2441000" />
       <workItem from="1686915319783" duration="47000" />
-      <workItem from="1687642414366" duration="661000" />
+      <workItem from="1687642414366" duration="2671000" />
     </task>
     <task id="LOCAL-00001" summary="index.html, header.css and general.css">
       <created>1685804391724</created>
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686915354919</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changed all Colors">
+      <created>1687643126999</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687643126999</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +139,7 @@
     <MESSAGE value="Made it look alright in Handy and Desktop Version" />
     <MESSAGE value="Playing around with the Scrollbar" />
     <MESSAGE value="Scroll behaviour" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scroll behaviour" />
+    <MESSAGE value="Changed all Colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed all Colors" />
   </component>
 </project>

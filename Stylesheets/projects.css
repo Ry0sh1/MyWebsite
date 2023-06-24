@@ -13,17 +13,17 @@
 .project-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    column-gap: 6vw;
+    column-gap: 260px;
+    row-gap: 100px;
 }
 .project{
     display: flex;
-    justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .project-picture{
-    width: 36vw;
-    height: 36vw;
+    width: 26vw;
+    height: 26vw;
     border-radius: 4vh;
     border: none;
     object-fit: cover;
@@ -31,6 +31,7 @@
     box-shadow: 2px 2px 15px rgba(0,0,0,0.4);
 }
 .project-caption{
+    width: 26vw;
     text-align: center;
     color: var(--color);
     font-size: 2.3vh;
@@ -38,6 +39,23 @@
 .project-caption > a{
     text-decoration: none;
     color: var(--color);
+}
+.projects-see-more{
+    color: var(--color);
+    background-color: var(--primary-button);
+    padding: 18px 26px;
+    border-radius: 8px;
+    transition: all 0.05s;
+    border: none;
+    font-size: 2.3vh;
+    cursor: pointer;
+}
+.projects-see-more:hover{
+    transform: translate(0,-4px);
+    box-shadow: 0 0 40px 2px var(--accent);
+}
+.projects-see-more:active{
+    opacity: 0.6;
 }
 @media screen and (max-width: 720px) {
     .project-grid{
