@@ -1,5 +1,5 @@
 .header{
-    background-color: #2f2f2f;
+    background-color: var(--main-background-color);
     display: flex;
     position: fixed;
     align-items: center;
@@ -7,7 +7,7 @@
     left: 0;
     right: 0;
     height: 8%;
-    border-bottom: black solid 2px;
+    border-bottom: var(--primary-button) solid 2px;
 }
 .header-left{
     width: 30vw;
@@ -25,7 +25,7 @@
     text-decoration: none;
     font-family: 'Outfit', sans-serif;
     font-size: 3.4vh;
-    color: #3eaf4d;
+    color: var(--color);
 }
 .header-right > p{
     font-family: 'Outfit', sans-serif;
@@ -34,15 +34,15 @@
 }
 .header-right > p > a{
     text-decoration: none;
-    color: #3eaf4d;
-    transition: color 0.15s, text-decoration 0.15s;
+    color: var(--color);
+    transition: opacity 0.15s, text-decoration 0.15s;
 }
 .header-right > p > a:hover{
     text-decoration: underline;
-    color: #86d592;
+    opacity: 0.7;
 }
 .header-right > p > a:active{
-    color: rgba(134, 213, 146, 0.35);
+    opacity: 0.5;
 }
 .header-center{
     flex: 1;
@@ -63,6 +63,6 @@
         text-decoration: none;
         font-family: 'Outfit', sans-serif;
         font-size: 0;
-        color: #3eaf4d;
+        color: var(--color);
     }
 }

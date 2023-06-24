@@ -7,7 +7,7 @@
 }
 .projects-header{
     text-align: center;
-    color: #3eaf4d;
+    color: var(--color);
     font-size: 2.5em;
 }
 .project-grid {
@@ -32,12 +32,12 @@
 }
 .project-caption{
     text-align: center;
-    color: white;
+    color: var(--color);
     font-size: 2.3vh;
 }
 .project-caption > a{
     text-decoration: none;
-    color: #3eaf4d;
+    color: var(--color);
 }
 @media screen and (max-width: 720px) {
     .project-grid{

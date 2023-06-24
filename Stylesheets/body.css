@@ -6,7 +6,7 @@
     margin-top: 2vh;
 }
 .quote{
-    color: white;
+    color: var(--color);
     text-align: center;
     width: 60vw;
     font-size: 2.4vh;
@@ -26,7 +26,7 @@
 }
 .links-header{
     text-align: center;
-    color: #3eaf4d;
+    color: var(--color);
     font-size: 2.5vh;
     margin-bottom: 0;
 }

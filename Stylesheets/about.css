@@ -19,7 +19,7 @@
 }
 .about-header{
     font-size: 5vh;
-    color: #3eaf4d;
+    color: var(--color);
     text-align: center;
 }
 .about-text{
@@ -45,7 +45,7 @@
 }
 .programming-languages-header{
     font-size: 3vh;
-    color: #3eaf4d;
+    color: var(--color);
     text-align: center;
 }
 .programming-languages > ul{
