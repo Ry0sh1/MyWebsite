@@ -10,16 +10,17 @@
     color: var(--color);
     text-align: center;
     width: 60vw;
-    font-size: 2.4vh;
+    font-size: 24px;
 }
 .author{
     margin-top: 12px;
-    font-size: 2em;
+    font-size: 34px;
     font-style: italic;
     display: block;
     color: white;
 }
 .links{
+    z-index: 100000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,5 +44,11 @@
 @media screen and (max-width: 720px) {
     .icon{
         width: 12vw;
+    }
+    .quote{
+        font-size: 18px;
+    }
+    .author{
+        font-size: 28px;
     }
 }

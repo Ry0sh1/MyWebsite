@@ -9,7 +9,8 @@
     height: 8%;
     border-bottom: var(--primary-button) solid 2px;
     padding: 0 40px;
-    z-index: 1000000;
+    z-index: 100000000;
+    opacity: 0.8;
 }
 .header-left{
     width: 30vw;
@@ -26,12 +27,12 @@
 .header-left > p{
     text-decoration: none;
     font-family: 'Outfit', sans-serif;
-    font-size: 3.4vh;
+    font-size: 32px;
     color: var(--color);
 }
 .header-right > p{
     font-family: 'Outfit', sans-serif;
-    font-size: 2vh;
+    font-size: 20px;
     margin: 0;
 }
 .header-right > p > a{
@@ -56,6 +57,9 @@
     .header-right{
         width: 100vw;
         margin-left: 20px;
+    }
+    .header-right p{
+        font-size: 14px;
     }
     .header-left{
         width: 0;

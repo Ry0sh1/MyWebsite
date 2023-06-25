@@ -19,14 +19,38 @@
     margin-left: 4vw;
 }
 .about-header{
-    font-size: 5vh;
+    font-size: 52px;
     color: var(--color);
     text-align: center;
 }
 .about-text{
     width: 42vw;
-    font-size: 2em;
+    font-size: 30px;
     color: white;
+}
+.background-container{
+    background: rgb(59,30,31);
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    gap: 0;
+    top: 0;
+    border: none;
+}
+.background{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    object-fit: fill;
+}
+.programming-languages-header{
+    font-size: 32px;
+    color: var(--color);
+    text-align: center;
+}
+.programming-languages > ul{
+    flex-direction: column;
+    padding: 0;
 }
 @media screen and (max-width:720px) {
     .about{
@@ -41,22 +65,21 @@
     }
     .about-text{
         width: 72vw;
-        font-size: 3vh;
+        font-size: 16px;
     }
-}
-.background{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    object-fit: fill;
-    z-index: 0;
-}
-.programming-languages-header{
-    font-size: 3vh;
-    color: var(--color);
-    text-align: center;
-}
-.programming-languages > ul{
-    flex-direction: column;
-    padding: 0;
+    .about-header{
+        font-size: 38px;
+    }
+    .programming-languages{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .programming-languages-header{
+        font-size: 18px;
+        width: 80%;
+        text-align: center;
+        padding: 0;
+    }
 }

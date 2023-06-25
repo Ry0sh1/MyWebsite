@@ -8,7 +8,7 @@
 .projects-header{
     text-align: center;
     color: var(--color);
-    font-size: 2.5em;
+    font-size: 44px;
 }
 .project-grid {
     display: grid;
@@ -34,7 +34,7 @@
     width: 26vw;
     text-align: center;
     color: var(--color);
-    font-size: 2.3vh;
+    font-size: 24px;
 }
 .project-caption > a{
     text-decoration: none;
@@ -58,11 +58,18 @@
     opacity: 0.6;
 }
 @media screen and (max-width: 720px) {
+    .projects-header{
+        font-size: 36px;
+    }
     .project-grid{
         grid-template-columns: 1fr;
     }
     .project-picture{
         width: 50vw;
         height: 50vw;
+    }
+    .project-caption{
+        font-size: 18px;
+        width: 50vw;
     }
 }
