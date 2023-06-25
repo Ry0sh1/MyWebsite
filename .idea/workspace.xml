@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Changed all Colors">
-      <change afterPath="$PROJECT_DIR$/Script/project.js" afterDir="false" />
+    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Background-pictures">
+      <change afterPath="$PROJECT_DIR$/Background/stacked-waves-haikei-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Background/stacked-waves-haikei-top.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheets/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stylesheets/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/body.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stylesheets/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stylesheets/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/projects.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,24 +30,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QhSFnJ6Ug3xa8U2vB3VPKYc2Nn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyWebsite&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyWebsite",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Script" />
@@ -68,7 +75,8 @@
       <workItem from="1686263169156" duration="99000" />
       <workItem from="1686315216906" duration="2441000" />
       <workItem from="1686915319783" duration="47000" />
-      <workItem from="1687642414366" duration="2671000" />
+      <workItem from="1687642414366" duration="2738000" />
+      <workItem from="1687694394099" duration="1897000" />
     </task>
     <task id="LOCAL-00001" summary="index.html, header.css and general.css">
       <created>1685804391724</created>
@@ -126,13 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687643126999</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I Changed the look in the Projects section and added a new one">
+      <created>1687645166442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687645166442</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="index.html, header.css and general.css" />
     <MESSAGE value="The most of the website" />
     <MESSAGE value="Testing" />
@@ -140,6 +156,8 @@
     <MESSAGE value="Playing around with the Scrollbar" />
     <MESSAGE value="Scroll behaviour" />
     <MESSAGE value="Changed all Colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed all Colors" />
+    <MESSAGE value="I Changed the look in the Projects section and added a new one" />
+    <MESSAGE value="Background-pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Background-pictures" />
   </component>
 </project>

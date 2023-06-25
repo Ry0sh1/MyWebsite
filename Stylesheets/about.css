@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    z-index: 1000000;
 }
 .me{
     width: 20vw;
@@ -10,7 +11,7 @@
     object-position: center;
     object-fit: cover;
     border: none;
-
+    z-index: 1000000;
     border-radius: 64px;
     box-shadow: 4px 4px 20px rgba(0,0,0,0.8);
 }
@@ -42,6 +43,13 @@
         width: 72vw;
         font-size: 3vh;
     }
+}
+.background{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    object-fit: fill;
+    z-index: 0;
 }
 .programming-languages-header{
     font-size: 3vh;

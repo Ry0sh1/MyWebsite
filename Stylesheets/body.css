@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     margin-top: 2vh;
+    z-index: 1000000;
 }
 .quote{
     color: var(--color);
