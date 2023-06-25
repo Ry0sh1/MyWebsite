@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Background and fixed font-sizes and scales">
-      <change beforePath="$PROJECT_DIR$/Stylesheets/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/Stylesheets/body.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Small Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +68,7 @@
       <workItem from="1686315216906" duration="2441000" />
       <workItem from="1686915319783" duration="47000" />
       <workItem from="1687642414366" duration="2738000" />
-      <workItem from="1687694394099" duration="6145000" />
+      <workItem from="1687694394099" duration="6951000" />
     </task>
     <task id="LOCAL-00001" summary="index.html, header.css and general.css">
       <created>1685804391724</created>
@@ -150,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687706034300</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Small Changes">
+      <created>1687706350825</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687706350825</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +172,7 @@
     <MESSAGE value="I Changed the look in the Projects section and added a new one" />
     <MESSAGE value="Background-pictures" />
     <MESSAGE value="Background and fixed font-sizes and scales" />
-    <option name="LAST_COMMIT_MESSAGE" value="Background and fixed font-sizes and scales" />
+    <MESSAGE value="Small Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Changes" />
   </component>
 </project>
