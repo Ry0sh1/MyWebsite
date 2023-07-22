@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Small Changes" />
+    <list default="true" id="0b93f7ef-a655-45ce-8c9f-9fef7962fce8" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/ASDda.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +18,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2QhSFnJ6Ug3xa8U2vB3VPKYc2Nn" />
   <component name="ProjectLevelVcsManager">
@@ -29,24 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyWebsite",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dominik/Desktop/Ryoshi/Programming/New/Website/MyWebsite&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Icons" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Script" />
       <recent name="D:\Dominik\Desktop\Ryoshi\Programming\New\Website\MyWebsite\Stylesheets" />
     </key>
@@ -69,6 +81,21 @@
       <workItem from="1686915319783" duration="47000" />
       <workItem from="1687642414366" duration="2738000" />
       <workItem from="1687694394099" duration="6951000" />
+      <workItem from="1687707176318" duration="346000" />
+      <workItem from="1687717327883" duration="1302000" />
+      <workItem from="1688059057940" duration="286000" />
+      <workItem from="1688062240346" duration="72000" />
+      <workItem from="1688062589419" duration="119000" />
+      <workItem from="1688062908957" duration="59000" />
+      <workItem from="1688077773198" duration="748000" />
+      <workItem from="1688484341344" duration="42000" />
+      <workItem from="1688492696822" duration="45000" />
+      <workItem from="1689092137122" duration="828000" />
+      <workItem from="1689191699534" duration="462000" />
+      <workItem from="1689530604302" duration="30000" />
+      <workItem from="1689685142808" duration="621000" />
+      <workItem from="1689849738284" duration="44000" />
+      <workItem from="1690045511146" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="index.html, header.css and general.css">
       <created>1685804391724</created>
@@ -154,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687706350825</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Test">
+      <created>1687707212149</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687707212149</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Test">
+      <created>1687707457704</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687707457704</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +214,7 @@
     <MESSAGE value="Background-pictures" />
     <MESSAGE value="Background and fixed font-sizes and scales" />
     <MESSAGE value="Small Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small Changes" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
